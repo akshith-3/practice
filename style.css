@@ -1,0 +1,6 @@
+.Todo-item:hover .trash-icon{
+  display: block;
+}
+h5 {
+  display: inline;
+}
